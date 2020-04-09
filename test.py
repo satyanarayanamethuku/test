@@ -5,4 +5,6 @@ if c==30:
     print("yes")
     print("master")
 else:
-    print(no)
+    print('satya branch')
+    print('satya no')
+    print("satya water")
