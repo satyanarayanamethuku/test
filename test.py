@@ -3,5 +3,6 @@ b=20
 c=a+b
 if c==30:
     print("yes")
+    print("master")
 else:
     print(no)
