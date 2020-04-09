@@ -6,3 +6,4 @@ if c==30:
 else:
     print('satya branch')
     print('satya no')
+    print("satya water")
