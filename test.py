@@ -4,4 +4,5 @@ c=a+b
 if c==30:
     print("yes")
 else:
-    print(no)
+    print('satya branch')
+    print('satya no')
