@@ -8,3 +8,7 @@ else:
     print('satya branch')
     print('satya no')
     print("satya water")
+    print("satya noddels")
+    print("satya pepsi")
+    print("satya vinnu")
+    print("satyanarayana branch")
