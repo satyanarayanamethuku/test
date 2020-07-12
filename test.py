@@ -10,3 +10,4 @@ else:
     print("satya noddels")
     print("satya pepsi")
     print("satya vinnu")
+    print("satyanarayana branch")
