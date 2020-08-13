@@ -12,3 +12,4 @@ else:
     print("satya pepsi")
     print("satya vinnu")
     print("satyanarayana branch")
+    print("i am eating apple and bananna fruits")
