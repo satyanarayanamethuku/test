@@ -11,4 +11,4 @@ else:
     print("satya pepsi")
     print("satya vinnu")
     print("satyanarayana branch")
-    print("satya revert2 satya2")
+    print("git satya revert")
