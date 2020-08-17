@@ -11,3 +11,6 @@ else:
     print("satya pepsi")
     print("satya vinnu")
     print("satyanarayana branch")
+    print("satya apple")
+    print("satya and bannaa eating")
+    print("new django version come")
