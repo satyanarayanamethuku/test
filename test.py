@@ -12,4 +12,4 @@ else:
     print("satya vinnu")
     print("satyanarayana branch")
     print("satya revert2 satya2")
-   
+    print("satya branch name will change satya/methuku")
